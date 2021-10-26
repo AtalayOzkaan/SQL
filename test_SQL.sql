@@ -1,0 +1,1 @@
+select * from Department where 1=1 and uniqueID = 1
