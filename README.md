@@ -1,3 +1,4 @@
 # Hello!
-# husband, dad, and software engineer who believes lifelong learning.
+Who am I?
+husband, dad, and software engineer who believes lifelong learning.
 
