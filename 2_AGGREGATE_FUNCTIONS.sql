@@ -40,4 +40,8 @@ where branch is not null
 group by date_,branch
 order by date_ 
 
-
+-- the branch of sales data according to category name
+select CATEGORY_NAME1, brand, SUM(LINENET) AS SumSales from Sales 
+WHERE CATEGORY_NAME1 ='GIDA'
+GROUP BY CATEGORY_NAME1, brand
+order by 3 desc
